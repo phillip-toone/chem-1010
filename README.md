@@ -25,6 +25,10 @@ trying to answer:
     conceptual and instructional map for Unit 1, including how Sections
     1.0--1.2 fit together.
 
+- **[COURSE-RECONSTRUCTION-WORKFLOW.md](COURSE-RECONSTRUCTION-WORKFLOW.md)** —
+  repeatable process for reconstructing sections and units from Canvas,
+  Critical Chemistry, assessments, and supporting course materials.
+
 ## Current Semester
 
 ### Fall 2026
