@@ -122,11 +122,11 @@ A question the collected evidence does not yet answer.
 
 Examples:
 
--   whether a particular Critical Chemistry score automatically
-    transfers into Canvas;
 -   which reference materials are provided on a particular assessment;
 -   how strongly a unit's case-study context is used in face-to-face
-    instruction.
+    instruction;
+-   whether a particular section has canonical demonstrations or
+    face-to-face activities intended by the original course developer.
 
 ### Rule
 
@@ -519,10 +519,26 @@ Typical instructions require students to:
 4.  reach the "Congratulations! ✓" banner;
 5.  close the banner to receive completion credit.
 
-### Operational unknown
+### Documented Canvas gradebook behavior
 
-The precise Critical Chemistry-to-Canvas grade synchronization behavior
-remains unresolved until clarified by the course developer.
+The course developer has clarified that Canvas contains two Critical
+Chemistry assignment groups with different purposes:
+
+-   **Critical Chemistry** --- created by the Critical Chemistry setup
+    and weighted **20%** of the course grade. Scores should populate
+    here as students complete their Critical Chemistry assignments.
+-   **Critical Chemistry Assignments** --- **0%** assignment group
+    containing ungraded Canvas pointer assignments. These exist so
+    Critical Chemistry activities appear in Canvas and on the Canvas
+    calendar.
+
+A **hyphen** in the graded Critical Chemistry entries indicates that the
+student has not completed the corresponding assignment.
+
+For instructor follow-up, the CHEM 1010 Teams channel contains the
+course developer's strategies for identifying students who have not been
+completing Critical Chemistry work and messaging them through Canvas
+Gradebook tools.
 
 ------------------------------------------------------------------------
 
@@ -928,8 +944,6 @@ reconstructed in detail.
 
 Preserve these across chat sessions until resolved:
 
--   Critical Chemistry-to-Canvas grade synchronization and the meaning
-    of the separate Critical Chemistry gradebook categories;
 -   explicit role of the Unit 2 "Opioid Crisis" context within
     individual sections;
 -   assessment/reference-sheet expectations for memorized items such as

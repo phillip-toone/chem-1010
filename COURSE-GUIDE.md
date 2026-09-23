@@ -5,7 +5,12 @@
 > 1010 --- Introductory Chemistry\
 > **Primary use:** Human instructor reference and context document for
 > an LLM assisting with course planning\
-> **Current evidence base:** Fall 2026 syllabus and Canvas calendar; detailed Unit 1 reconstruction including actual Pre-Reading and Section Quiz questions, Critical Chemistry assignment outcomes/instructions, Khan Academy integrations, review PDFs, Recall/Consolidation/Deliberate Practice activities, and Unit 1 section roadmaps
+> **Current evidence base:** Fall 2026 syllabus and Canvas calendar;
+> detailed Unit 1 reconstruction including actual Pre-Reading and
+> Section Quiz questions, Critical Chemistry assignment
+> outcomes/instructions, Khan Academy integrations, review PDFs,
+> Recall/Consolidation/Deliberate Practice activities, and Unit 1
+> section roadmaps
 
 ------------------------------------------------------------------------
 
@@ -270,9 +275,15 @@ progressively broader checks of learning.
 Students retrieve ideas from memory, reflect on what they know, compare
 reasoning, and verify understanding.
 
-The exact order can overlap. Learning is iterative rather than perfectly linear.
+The exact order can overlap. Learning is iterative rather than perfectly
+linear.
 
-**DOCUMENTED FROM UNIT 1:** Recall, Reflect, and Verify should not be understood only as the final step of this sequence. Retrieval, reflection, and verification recur **across sections and across time**. Unit 1 recall sets deliberately mix current material with earlier Section 1.0/1.1 skills, making spaced retrieval a longitudinal layer across the learning cycle.
+**DOCUMENTED FROM UNIT 1:** Recall, Reflect, and Verify should not be
+understood only as the final step of this sequence. Retrieval,
+reflection, and verification recur **across sections and across time**.
+Unit 1 recall sets deliberately mix current material with earlier
+Section 1.0/1.1 skills, making spaced retrieval a longitudinal layer
+across the learning cycle.
 
 ------------------------------------------------------------------------
 
@@ -319,19 +330,30 @@ tutorials, review slides, and other learning resources.
 introducing objectives, vocabulary, representations, and prerequisite
 ideas.
 
-**Instructor implication:** A lecture should not necessarily repeat the pre-reading from beginning to end. Use it as the expected entry point, while recognizing that students may arrive with uneven preparation.
+**Instructor implication:** A lecture should not necessarily repeat the
+pre-reading from beginning to end. Use it as the expected entry point,
+while recognizing that students may arrive with uneven preparation.
 
-**DOCUMENTED FROM UNIT 1 / INFERRED PRINCIPLE:** Pre-Reading completion establishes **exposure, not mastery**. Unit 1 Pre-Reading quizzes often check recognition of foundational concepts, while later Critical Chemistry work and Section Quizzes require more complex application.
+**DOCUMENTED FROM UNIT 1 / INFERRED PRINCIPLE:** Pre-Reading completion
+establishes **exposure, not mastery**. Unit 1 Pre-Reading quizzes often
+check recognition of foundational concepts, while later Critical
+Chemistry work and Section Quizzes require more complex application.
 
 ------------------------------------------------------------------------
 
 ### 8.2 Guided Readings
 
-**DOCUMENTED:** Guided Readings appear repeatedly in Canvas and, in Unit 1, function as Critical Chemistry lessons with explicit learning outcomes and completion requirements. Examples include Significant Figures and the Periodic Table.
+**DOCUMENTED:** Guided Readings appear repeatedly in Canvas and, in Unit
+1, function as Critical Chemistry lessons with explicit learning
+outcomes and completion requirements. Examples include Significant
+Figures and the Periodic Table.
 
-**INFERRED:** They provide structured concept development and guided interpretation rather than serving merely as reading assignments.
+**INFERRED:** They provide structured concept development and guided
+interpretation rather than serving merely as reading assignments.
 
-**Instructor implication:** Treat Guided Readings as substantive learning experiences. Determine what students are expected to develop there before deciding what class time should repeat, clarify, or extend.
+**Instructor implication:** Treat Guided Readings as substantive
+learning experiences. Determine what students are expected to develop
+there before deciding what class time should repeat, clarify, or extend.
 
 ------------------------------------------------------------------------
 
@@ -364,9 +386,35 @@ Critical Chemistry experience. Determine what students are exploring
 there and use class time to clarify, connect, model reasoning, diagnose
 misconceptions, and extend learning.
 
-**DOCUMENTED FROM UNIT 1:** Critical Chemistry appears in several forms, including Guided Readings, Case Studies, Problem Sets, and simulation-linked activities. Canvas often functions as the orchestration layer: it supplies pacing, outcomes, and a link into the substantive Critical Chemistry lesson.
+**DOCUMENTED FROM UNIT 1:** Critical Chemistry appears in several forms,
+including Guided Readings, Case Studies, Problem Sets, and
+simulation-linked activities. Canvas often functions as the
+orchestration layer: it supplies pacing, outcomes, and a link into the
+substantive Critical Chemistry lesson.
 
-**Known unknown:** The page-by-page interactive content of many Critical Chemistry lessons remains unavailable in this guide. The intended Critical Chemistry-to-Canvas grade transfer workflow is also unresolved; the Fall 2026 Gradebook shows both a 20%-weighted Critical Chemistry category and a 0%-weighted Critical Chemistry Assignments category. Do not assume whether synchronization is automatic or manual until clarified by the course developer.
+**Known unknown:** The page-by-page interactive content of many Critical
+Chemistry lessons remains unavailable in this guide.
+
+**DOCUMENTED operational behavior (clarified by the course developer):**
+Canvas contains two Critical Chemistry assignment groups with different
+purposes:
+
+-   **Critical Chemistry** is created by the Critical Chemistry setup
+    and counts for **20% of the course grade**.
+-   **Critical Chemistry Assignments** is a **0%** group containing
+    ungraded Canvas pointer assignments so the Critical Chemistry
+    activities appear in Canvas and on the Canvas calendar.
+
+As students complete assignments within Critical Chemistry, their scores
+should populate the graded Critical Chemistry entries in the Canvas
+gradebook. A **hyphen** indicates that the student has not completed the
+corresponding Critical Chemistry assignment.
+
+**Instructor implication:** Use the graded Critical Chemistry entries to
+monitor completion. The course developer also directs instructors to the
+CHEM 1010 Teams channel for established strategies for identifying
+students who are not completing Critical Chemistry work and messaging
+them with Canvas Gradebook tools.
 
 ------------------------------------------------------------------------
 
@@ -430,9 +478,16 @@ objectives rather than comfortable ones.
 **Working purpose:** Check section-level learning after preparation,
 application, consolidation, and deliberate practice.
 
-**DOCUMENTED FROM UNIT 1:** Actual Section Quiz questions can reveal assessment scope that is not fully represented by the displayed outcome list. Section 1.0, for example, assesses scientific notation and dimensional analysis even though those topics are underrepresented in its displayed Section Quiz outcomes; Section 1.2 shows much stronger visible alignment.
+**DOCUMENTED FROM UNIT 1:** Actual Section Quiz questions can reveal
+assessment scope that is not fully represented by the displayed outcome
+list. Section 1.0, for example, assesses scientific notation and
+dimensional analysis even though those topics are underrepresented in
+its displayed Section Quiz outcomes; Section 1.2 shows much stronger
+visible alignment.
 
-**Instructor implication:** When actual assessments are available, compare them with stated learning outcomes rather than assuming the displayed outcome list fully defines assessment scope.
+**Instructor implication:** When actual assessments are available,
+compare them with stated learning outcomes rather than assuming the
+displayed outcome list fully defines assessment scope.
 
 ------------------------------------------------------------------------
 
@@ -610,7 +665,12 @@ Emphasize:
 -   readiness for consolidation, deliberate practice, and the section
     quiz.
 
-This pattern must be adjusted when the calendar indicates exams, review periods, holidays, or unusually long sections. **Unit 1 evidence confirms that it should not be forced onto every section:** Section 1.0 spans several quantitative strands across multiple meetings. Once a section roadmap exists, use its evidence-based lecture rhythm in preference to this generic pattern.
+This pattern must be adjusted when the calendar indicates exams, review
+periods, holidays, or unusually long sections. **Unit 1 evidence
+confirms that it should not be forced onto every section:** Section 1.0
+spans several quantitative strands across multiple meetings. Once a
+section roadmap exists, use its evidence-based lecture rhythm in
+preference to this generic pattern.
 
 ------------------------------------------------------------------------
 
@@ -905,7 +965,9 @@ When sources conflict, use this working hierarchy:
 3.  **Current Canvas modules, assignment instructions, rubrics, and
     instructor announcements**
 4.  **Current semester Canvas calendar**
-5.  **Current section roadmap and unit README** (for synthesized teaching guidance, always subordinate to the current source materials above)
+5.  **Current section roadmap and unit README** (for synthesized
+    teaching guidance, always subordinate to the current source
+    materials above)
 6.  **This COURSE-GUIDE.md**
 7.  **Prior-semester materials**
 8.  **LLM inference or generic chemistry knowledge**
@@ -935,15 +997,25 @@ We still need stronger evidence about:
 
 ### Guided Readings and Case Studies
 
-Unit 1 provides representative examples showing that these can be substantive Critical Chemistry learning experiences with explicit outcomes and completion requirements. Their exact role can still vary by section, so later-unit examples should continue to be documented rather than generalized prematurely.
+Unit 1 provides representative examples showing that these can be
+substantive Critical Chemistry learning experiences with explicit
+outcomes and completion requirements. Their exact role can still vary by
+section, so later-unit examples should continue to be documented rather
+than generalized prematurely.
 
 ### Critical Chemistry
 
-We now have learning outcomes and Canvas instructions for several Unit 1 lessons, but not their complete interactive page-by-page content. We also need clarification of the Critical Chemistry-to-Canvas grade-transfer workflow.
+We now have learning outcomes and Canvas instructions for several Unit 1
+lessons, but not their complete interactive page-by-page content. We
+also need clarification of the Critical Chemistry-to-Canvas
+grade-transfer workflow.
 
 ### Section Quizzes
 
-We now have actual Section Quiz questions for Sections 1.0 and 1.2, demonstrating that displayed outcome lists should be audited against the assessment itself. Section 1.1 quiz alignment remains unresolved, and later sections should be documented as they are reconstructed.
+We now have actual Section Quiz questions for Sections 1.0 and 1.2,
+demonstrating that displayed outcome lists should be audited against the
+assessment itself. Section 1.1 quiz alignment remains unresolved, and
+later sections should be documented as they are reconstructed.
 
 ### Signature Assignment
 
@@ -952,13 +1024,19 @@ General Education purpose accurately.
 
 ### Learning Objectives
 
-The syllabus provides course-level outcomes. Unit 1 now has section-by-section outcome inventories, but the reconstruction also shows that multiple outcome lists within a section can diverge. Future section roadmaps should identify the operative mastery outcomes and explicitly record alignment discrepancies rather than silently reconciling them.
+The syllabus provides course-level outcomes. Unit 1 now has
+section-by-section outcome inventories, but the reconstruction also
+shows that multiple outcome lists within a section can diverge. Future
+section roadmaps should identify the operative mastery outcomes and
+explicitly record alignment discrepancies rather than silently
+reconciling them.
 
 ------------------------------------------------------------------------
 
 ## 19. Documentation Architecture
 
-The repository now uses multiple documentation layers, each answering a different planning question:
+The repository now uses multiple documentation layers, each answering a
+different planning question:
 
 ``` text
 README.md
@@ -977,11 +1055,18 @@ units/<unit>/section-*.md
     detailed section teaching roadmaps, outcomes, source crosswalks, lecture rhythms, assessment alignment, maintenance notes, and known unknowns
 ```
 
-For a section that has already been reconstructed, consult its section roadmap before planning lecture. The roadmap is a synthesis, not a replacement for current Canvas/source materials; when a conflict appears, return to the source-of-truth hierarchy in Section 17.
+For a section that has already been reconstructed, consult its section
+roadmap before planning lecture. The roadmap is a synthesis, not a
+replacement for current Canvas/source materials; when a conflict
+appears, return to the source-of-truth hierarchy in Section 17.
 
 ### Unit 1 status
 
-Unit 1 now has a unit README plus roadmaps for Sections 1.0, 1.1, and 1.2. This provides the first complete example of the intended documentation architecture. Later units should follow the same evidence-first process: collect source material, synthesize the section, review it, then synthesize the unit.
+Unit 1 now has a unit README plus roadmaps for Sections 1.0, 1.1, and
+1.2. This provides the first complete example of the intended
+documentation architecture. Later units should follow the same
+evidence-first process: collect source material, synthesize the section,
+review it, then synthesize the unit.
 
 ------------------------------------------------------------------------
 
